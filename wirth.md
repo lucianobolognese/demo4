@@ -5,11 +5,10 @@ Niklaus Wirth was born in February 1934 in Winterthur, Switzerland. He received 
 
 Books  (list)           
 
-.         Programming in Oberon: Steps beyond Pascal and Modula. (with M. Reiser) Addison-Wesley, 1992. [ PDF (22MB)]
-Programming in Oberon Tutorial 2004 (400KB) - see also Oberon section above
+1. Programming in Oberon: Steps beyond Pascal and Modula. (with M. Reiser) Addison-Wesley, 1992.
+Programming in Oberon Tutorial 2004  - see also Oberon section above
 
-.         Project Oberon. (with J. Gutknecht) Addison-Wesley, Reading, 1992. [2005 Edition PDF (4'398 KB)]
-see also Project Oberon, 2013 Edition section above
+2. Project Oberon. (with J. Gutknecht) Addison-Wesley, Reading, 1992. [2005 Edition see also Project Oberon, 2013 Edition section above
 
-.         Algorithms and Data Structures (1985) (Oberon version: August 2004) [PDF (1'241 KB)]
+3. Algorithms and Data Structures (1985) (Oberon version: August 2004) 
 
